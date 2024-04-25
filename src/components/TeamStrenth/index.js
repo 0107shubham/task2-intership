@@ -10,7 +10,7 @@ const TeamStrength = () => {
         justifyContent: "start",
         paddingTop: "50px",
         alignItems: "center",
-        height: "100vh",
+        height: "80vh",
         backgroundColor: "black",
       }}
     >
@@ -38,7 +38,7 @@ const TeamStrength = () => {
 
       <div className="flex flex-row justify-around">
         <div className="w-[40%] text-white  ml-11">
-          <p className="m-2 text-2xl">About Content</p>
+          <p className="m-2 text-2xl text-text-color">About Content</p>
           <h1 className="m-2 text-4xl">
             Best Creative & Modern <br />
             Agency{" "}

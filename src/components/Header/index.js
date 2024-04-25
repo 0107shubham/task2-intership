@@ -11,15 +11,15 @@ const Header = () => {
         <LiaStarOfLifeSolid className="text-yellow-700 bg" />
         <p>ConsalPro</p>
       </div>
-      <p>Home</p>
-      <p>Home</p>
-      <p>Home</p>
-      <p>Home</p>
-      <p>Home</p>
-      <p>Home</p>
-      <IoSearch />
-      <button className="outline-none border flex flex-row items-center m-3">
-        Get In Touch <IoIosArrowForward className="mx-1" />
+      <p className="">Home</p>
+      <p>About</p>
+      <p>Projects</p>
+      <p>Pages</p>
+      <p>Screens</p>
+      <p>Blogs</p>
+      <IoSearch className="text-2xl" />
+      <button className="outline-none rounded-full border-2 text-[ #EEBC5C] border-[#EEBC5C]  px-4 py-2 flex flex-row items-center m-3">
+        Get In Touch <IoIosArrowForward className="mx-1 text-[ #EEBC5C] " />
       </button>
       <p className="flex flex-row items-center ">
         <GiHamburgerMenu className="mx-1" />

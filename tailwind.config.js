@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         "icon-bg": "#AA7627",
+        "text-color": "#AA7627",
       },
       backgroundImage: (theme) => ({
         "gradient-radial": "radial-gradient(circle, #AA7627, black,black)",
